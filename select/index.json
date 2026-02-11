@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "気づいたら片想い",
+  "base_artist": "Nogizaka46",
+  "createdAt": "2026-02-11T15:26:36.040590Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "気づいたら片想い",
+      "artist": "Nogizaka46",
+      "has_synced": false,
+      "path": "select/01_気づいたら片想い_Nogizaka46.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "気づいたら片想い",
+      "artist": "乃木坂46",
+      "has_synced": false,
+      "path": "select/02_気づいたら片想い_乃木坂46.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "気づいたら片想い",
+      "artist": "乃木坂46",
+      "has_synced": true,
+      "path": "select/03_気づいたら片想い_乃木坂46.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "気づいたら片想い",
+      "artist": "Nogizaka46",
+      "has_synced": true,
+      "path": "select/04_気づいたら片想い_Nogizaka46.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "気づいたら片想い",
+      "artist": "Nogizaka46",
+      "has_synced": true,
+      "path": "select/05_気づいたら片想い_Nogizaka46.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "気づいたら片想い",
+      "artist": "乃木坂46",
+      "has_synced": true,
+      "path": "select/06_気づいたら片想い_乃木坂46.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "気づいたら片想い - Kizuitara Kataomoi",
+      "artist": "Nogizaka46",
+      "has_synced": true,
+      "path": "select/07_気づいたら片想い_-_Kizuitara_Kataomoi_Nogizaka46.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "気づいたら片想い Type-A",
+      "artist": "乃木坂46",
+      "has_synced": true,
+      "path": "select/08_気づいたら片想い_Type-A_乃木坂46.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "気づいたら片想い",
+      "artist": "乃木坂46",
+      "has_synced": false,
+      "path": "select/pl_01_気づいたら片想い_乃木坂46.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "気づいたら片想い",
+      "artist": "乃木坂46",
+      "has_synced": false,
+      "path": "select/pl_02_気づいたら片想い_乃木坂46.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "気づいたら片想い",
+      "artist": "乃木坂46",
+      "has_synced": false,
+      "path": "select/pl_03_気づいたら片想い_乃木坂46.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "気づいたら片想い",
+      "artist": "乃木坂46",
+      "has_synced": false,
+      "path": "select/pl_04_気づいたら片想い_乃木坂46.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "気づいたら片想い",
+      "artist": "乃木坂46",
+      "has_synced": false,
+      "path": "select/pl_05_気づいたら片想い_乃木坂46.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "気づいたら片想い with 松井玲奈ver.",
+      "artist": "乃木坂46",
+      "has_synced": false,
+      "path": "select/pl_06_気づいたら片想い_with_松井玲奈ver._乃木坂46.txt"
+    }
+  ]
+}
